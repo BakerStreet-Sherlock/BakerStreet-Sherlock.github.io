@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[你好-世界]]></title>
+    <url>%2F2018%2F10%2F10%2F%E4%BD%A0%E5%A5%BD-%E4%B8%96%E7%95%8C%2F</url>
+    <content type="text"><![CDATA[一级标题二级标题三级标题 列表1 列表2 a 子列表1 b 子列表2 列表3 百度斜体字字体加粗 &lt;html&gt;&lt;/html&gt; 12345&lt;html&gt; &lt;head&gt; &lt;title&gt;代码片段&lt;/title&gt; &lt;/head&gt;&lt;/html&gt; 引用的语句]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>乱七八糟的idea</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F10%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
